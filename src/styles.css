@@ -1,0 +1,58 @@
+h1 {
+    position: relative;
+    left: 425px;
+    font-size: 19px;
+    margin-top: 30px;
+    padding-top: 16px;
+  }
+  .temperature {
+    position: fixed;
+    right: 363px;
+    font-size: 24px;
+    top: 70px;
+  }
+  .temperature ul {
+    list-style: none;
+  }
+  form {
+    position: relative;
+    top: -68px;
+    left: 87px;
+    font-size: 14pt;
+  }
+  h1 p {
+    position: fixed;
+    font-size: 19px;
+    right: 510px;
+    margin-top: -23px;
+  }
+  .container {
+    display: block;
+    width: 50%;
+    margin: 30px auto;
+    background-color: white;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    border-radius: 10px;
+    height: 300px;
+  }
+  .date-time {
+    position: inherit;
+    right: 345px;
+    font-size: 19px;
+  }
+  .cities {
+    position: relative;
+    top: -60px;
+    left: 114px;
+    word-spacing: 15px;
+  }
+  .todays-forecast {
+    position: fixed;
+    bottom: 300px;
+    width: 50%;
+    left: 375px;
+  }
+  .emoji {
+    font-size: 100px;
+  }
+  
